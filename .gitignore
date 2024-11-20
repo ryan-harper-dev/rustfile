@@ -1,0 +1,14 @@
+# Rust
+/backend/target
+**/*.rs.bk
+
+# Node.js
+/frontend/node_modules
+/frontend/.next
+/frontend/out
+
+# Environment Variables
+.env
+/backend/.env
+/frontend/.env.local
+.vscode/
